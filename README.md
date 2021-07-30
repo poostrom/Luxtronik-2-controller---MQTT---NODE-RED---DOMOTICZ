@@ -2,13 +2,14 @@
 Manual to get info from a Luxtronik 2 controller (heatpump) to Domoticz via NODE-RED &amp; MQTT
 
 First of all, install MQTT on your Raspberry Pi, Google is your friend, but ok:
-
+```
 sudo apt-get install mosquitto
+```
 
 If you want the clients as well (not needed for this, but handy):
-
+```
 sudo apt-get install mosquitto-clients
-
+```
 Follow this guide to install and setup Node-Red on your Raspberry:
 https://nodered.org/docs/getting-started/raspberrypi
 
