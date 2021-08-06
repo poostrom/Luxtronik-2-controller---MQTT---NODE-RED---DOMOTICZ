@@ -29,5 +29,6 @@ Virtual sensors to create in Domoticz:
 - 7 Temp sensors
 - 1 Selector Switch with values: 0:Off 10:Verwarming 20:Heet water 30:Koeling
 - 1 alarm sensor
+- 1 waterflow sensor
 
 This is working for the Luxtronik 2.0 controller with firmware 1.86
